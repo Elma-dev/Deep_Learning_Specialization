@@ -7,3 +7,7 @@ In this Repo You will found :
 * Each Steps in The up will applicated to cat/notCat classifacation problem (image classification)
 * Standarization of image
 * other technics...
+# How I work
+To get this repo in high quaity try open it with google colab 
+* get code with notices
+ 

@@ -9,5 +9,5 @@ In this Repo You will found :
 * other technics...
 # How I work
 To get this repo in high quaity try open it with google colab 
-* get code with notices
+* get code with notes
  
